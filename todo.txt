@@ -1,4 +1,4 @@
-[ ] go to Tsec event
+[*] go to Tsec event
 [ ] get hair rebraided
 [ ] go to picnic with dad
 [ ] save for driving lessons
